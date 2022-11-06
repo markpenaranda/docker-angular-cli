@@ -1,4 +1,4 @@
-# Teracy docker-files [![Build, Push Docker Images](https://github.com/teracyhq/docker-files/actions/workflows/build-push.yaml/badge.svg)](https://github.com/teracyhq/docker-files/actions/workflows/build-push.yaml)
+# Docker Angular CLI with amd64v8 [![Build, Push Docker Images](https://github.com/teracyhq/docker-files/actions/workflows/build-push.yaml/badge.svg)](https://github.com/teracyhq/docker-files/actions/workflows/build-push.yaml)
 
 
 Teracy project to create Docker images.
